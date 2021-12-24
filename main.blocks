@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Y^aRzk#;dCd3^GPlt4]X" x="305" y="80"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="9g/YR]bDk{C1:@!LBV;z"><value name="text"><shadow type="text" id="AU_}$~p:V`Pmcaarg0Jq"><field name="TEXT">Ahoj Zlato, chci ti rict, ze te mam rada!</field></shadow></value><next><block type="device_show_leds" id="Os*|+8Jrj0Sj2phpQw!k"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
